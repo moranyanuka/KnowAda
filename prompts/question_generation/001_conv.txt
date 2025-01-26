@@ -1,0 +1,18 @@
+1. Question: What is the perspective of the image?
+2. Question: What material is the light fixture made from?
+3. Question: How many light bulbs are hanging from the fixture?
+4. Question: What is the condition of the rope holding the light fixture?
+5. Question: What is the chain attached to the light fixture made of?
+6. Question: What color is the chain attached to the light fixture?
+7. Question: What is the state of the ends of the wooden beam?
+8. Question: What is mounted on the upper wall in the background of the image?
+9. Question: What is the fire sprinkler next to the AC vent made of?
+10. Question: What type of door is visible below the light bulbs?
+11. Question: What color is the barn door?
+12. Question: What is the material of the railing next to the barn door?
+13. Question: What is located to the left of the barn door?
+14. Question: What is color of the menu board?
+15. Question: What color are the letters on the menu board?
+16. Question: What is the text on the menu board?
+17. Question: What can be seen through the doorway in the lower right corner?
+18. Question: What color is the glow coming from the doorway?

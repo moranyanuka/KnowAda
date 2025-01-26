@@ -1,0 +1,15 @@
+{
+    "model_ckpt": "gemini-1.5-flash-001",
+    "model_ckpt_": "gemini-1.5-pro",
+    "activate_logging": true,
+    "cache_dir": "/data/hf_cache",
+    "prompt_files_path": "prompts/caption_rewrite",
+    "system_prompt_path": "prompts/caption_rewrite/system/system.txt",
+    "dataset": "google/docci",
+    "split": "train",
+
+    "num_questions_per_image": 10,
+    "top_k": 1,
+    "log_every" : 50,
+    "seed": 123
+}

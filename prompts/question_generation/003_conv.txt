@@ -1,0 +1,9 @@
+1. What is the perspective of the scene?
+2. What type of insect is perched on the leaf?
+3. Question: What is the size of the leaf compared to the insect?
+4. What is the condition of the flower to the far left of the insect?
+5. What is the color and condition of the flower underneath the insect?
+6. What is the color and condition of the flower to the right bottom of the insect?
+7. How many flowers are seen in the scene?
+8. What is the texture or condition of the leaf the insect is sitting on?
+9. What is the difference between the flower to the far left of the insect and the one underneath it?

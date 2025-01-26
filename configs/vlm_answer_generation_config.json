@@ -1,0 +1,19 @@
+{
+    "batch_size": 1,
+    "num_answers_per_question" : 10,
+    "model_base_ckpt": "google/paligemma-3b-mix-224",
+    "model_ckpt": "google/paligemma-3b-mix-224",
+    "quantize" : false,
+    "device": "cuda",
+    "activate_logging": true,
+    "log_every" : 10,
+    "cache_dir": "/data/hf_cache",
+    "dataset" : "google/docci",
+    "split" : "train",
+    "prompt_files_path" : "prompts/answer_generation/",
+    "prompt_path" : "prompts/answer_generation/paligemma.txt",
+    "sampling_temperature" : 0.4,
+    "output_path" : "outputs/",
+    "seed" : 123,
+    "max_new_tokens" : 100
+}   

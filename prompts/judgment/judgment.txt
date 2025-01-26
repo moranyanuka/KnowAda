@@ -1,0 +1,33 @@
+Your task is to evaluate how accurately a vision-language model answers a given question, using a scale of 1 to 3.
+
+    3: The model's answer is fully correct.
+    2: The answer is somewhat correct but has minor discrepancies.
+    1: The answer is incorrect or contradicts the image description and ground truth.
+
+You will be provided with the image description, the model's answer, and the ground truth answer.
+
+When scoring, consider how much the model's answer deviates from the ground truth and the image description. The more the answer contradicts these, the lower the score should be.
+
+For example:
+
+    If the ground truth is "square" and the model answers "rectangle," it should receive a 2, as the answer is close but not exact.
+    If the model answers "circle," which contradicts the ground truth, it should receive a 1.
+
+Similarly, if the ground truth is "brown" and the model answers "tan," the answer should receive a 2, but if the answer is "green," it should receive a 1.
+
+Image description:
+===
+<description>
+===
+
+Question:
+===
+<question>
+===
+
+Vision-language model answer:
+===
+<model-answer>
+===
+
+Please provide a numerical score (1-3) for the model's answer. Do not include any additional explanations or comments.

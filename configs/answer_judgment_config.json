@@ -1,0 +1,19 @@
+{
+    "model_ckpt": "gemini-1.5-flash-001",
+    "model_device": "cuda",
+    "activate_logging": true,
+    "log_every": 20,
+    "difficulty_threshold": 8,
+    "cache_dir": "/data/hf_cache",
+    "dataset": "google/docci",
+    "prompt_path": "prompts/judgment/judgment.txt",
+    "prompt_files_path": "prompts/judgment",
+
+    "split": "train",
+
+    "num_questions_per_image": 10,
+    "num_answers_per_question": 10,
+    "seed": 123,
+    "max_new_tokens": 30,
+    "top_k": 1
+}

@@ -1,0 +1,10 @@
+1. Question: What is the overall clarity and focus of the image?
+2. Question: Is the image taken indoors or outdoors?
+3. Question: What is the shape of the sign in the image?
+4. Question: What is the primary color of the sign?
+5. Question: What text is written on the sign?
+6. Question: what color is the text on the sign?
+7. Question: Is there a border around the sign?
+8. Question: What color is the border around the sign?
+9. Question: What is visible in the background behind the sign?
+10. Question: What is the color and condition of the sky in the image?

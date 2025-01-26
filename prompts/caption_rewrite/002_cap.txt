@@ -1,0 +1,10 @@
+Description:
+A top-down, close-up view of a brown, fiery skipper sitting on top of a leaf that is slightly wide. On the far left side of the fiery skipper, there is a discolored flower that used to be blue, while the one underneath it is a dark blue. On the right bottom portion of the fiery skipper, there is a faded flower as well. A dog is playing with a ball in the distance.
+
+Questions:
+What type of insect is seen on top of the leaf? 
+What is the primary color of the insect in the scene?
+How wide is the leaf that the insect is sitting on compared to its body?
+What is the condition of the flower to the left bottom of the insect?
+Is there a flower to the right bottom of the insect?
+What is the dog playing with?

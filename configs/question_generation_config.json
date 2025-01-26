@@ -1,0 +1,11 @@
+{
+    "model_ckpt": "gemini-1.5-flash-001",
+    "activate_logging": true,
+    "cache_dir": "/data/hf_cache",
+    "dataset": "google/docci",
+    "split" : "train",
+    "prompt_files_path": "prompts/question_generation",
+    "seed": 123,
+    "top_k": 1,
+    "log_every": 2
+}

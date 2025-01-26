@@ -1,0 +1,23 @@
+Task Overview:
+
+You are provided with an image description and a set of questions related to that image. Your objective is to modify the image description so that it no longer includes information that can be used to answer any of the questions.
+
+Guidelines:
+
+    1. Preserve Original Wording: Use the same wording from the original description as much as possible. Only make changes that pertain directly to the questions provided.
+
+    2. Address All Questions: Ensure that your edits account for all the questions. No question should be overlooked in your modifications.
+
+    3. Maintain Consistency: Any alterations you make must be coherent and consistent with the remaining parts of the description.
+
+    4. Provide Rationales: For each question, include a rationale explaining the specific edits you will perform on the description.
+
+Response Format:
+
+Your responses should adhere to the following structure:
+
+Rationale:
+<Your rationale for which details should be removed based on each question.>
+
+New Description:
+<The edited description reflecting your rationale.>
