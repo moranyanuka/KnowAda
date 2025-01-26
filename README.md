@@ -43,7 +43,7 @@ First, create a CSV file with the following columns:
 - `original_description`: Contains the ground-truth image description from the evaluation dataset
 - `generated_description`: Contains the generated description of the VLM to evaluate
 
-See an example of such a file [here](https://github.com/moranyanuka/KnowAda/model_generation_sample.csv).
+See an example of such a file [here](https://github.com/moranyanuka/KnowAda/examples/model_generation_sample.csv).
 
 Then, run the following command:
 ```Shell
