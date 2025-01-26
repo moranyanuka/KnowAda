@@ -8,9 +8,6 @@
 <a href="https://sites.google.com/site/idanszpektor">Idan Szpektor</a>,
 <a href="https://www.giryes.sites.tau.ac.il/">Raja Giryes</a>
 
-<!-- [Project Page](https://moranyanuka.github.io/icc/) &nbsp; &nbsp; [Paper](https://arxiv.org/abs/2403.01306) -->
-
-<!-- <a href="https://moranyanuka.github.io/icc/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a> -->
 
 <a href="https://arxiv.org/abs/2411.09018"><img src="https://img.shields.io/badge/arXiv-2411.09018-b31b1b.svg"></a>
 
@@ -66,5 +63,12 @@ python run.py \
        --output_folder <path-to-output-directory>
 ```
 
+This will generate the following files:
 
-You can adjust some of the parameters in each stage of the pipeline using the [config files](https://github.com/moranyanuka/KnowAda/tree/main/configs) (e.g., the train/test split, the gemini checkpoint, etc.)
+- `questions.csv`: Contains the generated questions based on the image descriptions
+- `answers.csv`: The VLM's sampled answers to each question
+- `judgments.csv`: The judgments determining whether a given answer is correct on a scale of 1-3 (1 is completely incorrect, 3 is completely correct)
+- `difficult_questions_list`: Contains for each descriptions, all the questions that are considered unknown for a given threshold
+- `rewritten_captions`: The final rewritten captions based on the unknown questions
+
+You can adjust some of the parameters in each stage of the pipeline using the [config files](https://github.com/moranyanuka/KnowAda/tree/main/configs) (e.g., the train/test split, the difficulty_threshold for determining if a question is unknown, etc.)
