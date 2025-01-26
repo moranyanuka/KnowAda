@@ -34,9 +34,9 @@ Add your Gemini API key:
 export API_KEY='<your-key>'
 ```
 
-## DMLI Dense Caption Evaluation
+## DNLI Dense Caption Evaluation
 
-### Running the *DMLI* evaluation of dense captions for your VLM
+### Running the *DNLI* evaluation of dense captions for your VLM
 
 First, create a CSV file with the following columns:
 
