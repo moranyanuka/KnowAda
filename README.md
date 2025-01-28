@@ -68,7 +68,7 @@ This will generate the following files:
 - `questions.csv`: Contains the generated questions based on the image descriptions
 - `answers.csv`: The VLM's sampled answers to each question
 - `judgments.csv`: The judgments determining whether a given answer is correct on a scale of 1-3 (1 is completely incorrect, 3 is completely correct)
-- `difficult_questions_list`: Contains for each descriptions, all the questions that are considered unknown for a given threshold
-- `rewritten_captions`: The final rewritten captions based on the unknown questions
+- `difficult_questions_list.csv`: Contains for each descriptions, all the questions that are considered unknown for a given threshold
+- `rewritten_captions.csv`: The final rewritten captions based on the unknown questions
 
 You can adjust some of the parameters in each stage of the pipeline using the [config files](https://github.com/moranyanuka/KnowAda/tree/main/configs) (e.g., the train/test split, the difficulty_threshold for determining if a question is unknown, etc.)
