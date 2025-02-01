@@ -82,5 +82,4 @@ If you find this useful for your research, please cite the following:
   journal={arXiv preprint arXiv:2411.09018},
   year={2024}
 }
-}
 ```
