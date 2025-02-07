@@ -11,6 +11,8 @@
 
 <a href="https://arxiv.org/abs/2411.09018"><img src="https://img.shields.io/badge/arXiv-2411.09018-b31b1b.svg"></a>
 
+Small-scale vision-language models (VLMs) struggle to balance descriptiveness and hallucination when fine-tuned on long, detailed captions. We introduce Decomposed NLI (DNLI), a fine-grained evaluation framework that assesses caption quality by breaking down generated text into individual propositions. Our findings show that reducing caption complexity or using standard data curation alone is insufficient to mitigate hallucinations effectively. To address this, we propose Knowledge Adapted (KnowAda) fine-tuning, a data-centric approach that aligns training captions with the model's existing knowledge and visual understanding. KnowAda reduces hallucinations while preserving high descriptiveness, outperforming baselines on both automatic metrics and human evaluations.
+
 <img src="images/p_r_curve.png" width="60%"/>   <br>
 
 ## Setup
