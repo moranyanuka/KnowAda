@@ -11,7 +11,7 @@
 
 <a href="https://arxiv.org/abs/2411.09018"><img src="https://img.shields.io/badge/arXiv-2411.09018-b31b1b.svg"></a>
 
-<img src="images/p_r_curve.png" width="90%"/>   <br>
+<img src="images/p_r_curve.png" width="60%"/>   <br>
 
 ## Setup
 
